@@ -1,11 +1,14 @@
 # How to set colors in the app
-## Badly
+
+
+> **Note:** Badly
 
 ```
 view.backgroundColor = UIColor(hexColor: 0xF79E3D) 
 ```
 
-## Good
+> **Note:** Good
+
 
 ```
 let stateColor = UIColor.Button.primary
