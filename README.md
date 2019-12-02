@@ -1,6 +1,4 @@
 # How to set colors in the app
-___
-
 ## Badly
 
 ```
